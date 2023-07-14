@@ -6,6 +6,12 @@ Here you can find the code associated with the videos of my [YouTube channel](ht
 
 Below you'll find some quick links for some of my favorite videos and playlists. Cheers!
 
+### [Please Contribute if You are Able](https://www.buymeacoffee.com/kimberlyfessel)
+If you have found my videos and code helpful and you are in a position to do so, please consider [buying me a cup of coffee](https://www.buymeacoffee.com/kimberlyfessel) :coffee:. 
+
+Your contribution signals the importance of this work and encourages me to make more content -- THANK YOU! :pray:
+
+
 ## [Intro to Seaborn](/Seaborn/)
 
 Videos in this series focus on one seaborn plot type or aspect. Check out the code or view the [full playlist](https://www.youtube.com/playlist?list=PLtPIclEQf-3cG31dxSMZ8KTcDG7zYng1j) on YouTube.
