@@ -14,13 +14,21 @@ Your contribution signals the importance of this work and encourages me to make 
 
 ## [Intro to Seaborn](/Seaborn/)
 
-Videos in this series focus on one seaborn plot type or aspect. Check out the code or view the [full playlist](https://www.youtube.com/playlist?list=PLtPIclEQf-3cG31dxSMZ8KTcDG7zYng1j) on YouTube.
+Videos in this series focus on one Seaborn plot type or aspect. Check out the code or view the [full playlist](https://www.youtube.com/playlist?list=PLtPIclEQf-3cG31dxSMZ8KTcDG7zYng1j) on YouTube.
 
 Highlights include:
 - KDEplot ([code](/Seaborn/02_KDEplot.ipynb), [video](https://youtu.be/DCgPRaIDYXA))
 - Heatmap ([code](/Seaborn/11_heatmap.ipynb), [video](https://youtu.be/0U9cs2V-Mqc))
 - Histplot ([code](/Seaborn/15_histplot.ipynb), [video](https://youtu.be/Bjz00ygERxY))
 - FacetGrid ([code](/Seaborn/16_FacetGrid.ipynb), [video](https://youtu.be/YYeqJllXHxM))
+
+## [Pandas Tips](/Pandas_Tips/)
+
+Many people use pandas for data analysis, but not many use some of its most helpful features. Follow along with this series to Level UP! your pandas code. Check out the code or view the [full playlist](https://www.youtube.com/playlist?list=PLtPIclEQf-3c-pUgSttUGV-3Y2D9g_0sW) on YouTube.
+
+Highlights include:
+- Reading from a CSV ([code](/Pandas_Tips/01_read_csv.ipynb), [video](https://www.youtube.com/watch?v=sTXr73fqybc))
+- Dropping a column ([code](/Pandas_Tips/05_drop.ipynb), video)
 
 ## [Matplotlib Tips](/Matplotlib_Tips/)
 
