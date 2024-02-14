@@ -28,7 +28,8 @@ Many people use pandas for data analysis, but not many use some of its most help
 
 Highlights include:
 - Reading from a CSV ([code](/Pandas_Tips/01_read_csv.ipynb), [video](https://www.youtube.com/watch?v=sTXr73fqybc))
-- Dropping a column ([code](/Pandas_Tips/05_drop.ipynb), video)
+- Dropping a column ([code](/Pandas_Tips/05_drop.ipynb), [video](https://www.youtube.com/watch?v=ALPUKBmkfjs))
+- Querying a dataframe ([code](/Pandas_Tips/08_query.ipynb), [video](https://www.youtube.com/watch?v=9v_gEQ2GfzA))
 
 ## [Matplotlib Tips](/Matplotlib_Tips/)
 
